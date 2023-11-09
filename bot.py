@@ -2,7 +2,7 @@ import requests
 from telethon import TelegramClient, events, sync
 import re,os
 from time import sleep
-o = ("@v7_BBOT")
+o = ("v7_BBOT")
 tokenbot = "/6337805691:AAHVUWGP5tZdj7ta_7lQgTRhGcHRB41M0og" #توكن البوت الي يوصلك عليه الصيد
 dragon = "5405731745" #ايديك
 app =  TelegramClient("SwapBot",api_id=15551290,api_hash="52541a59f55c6f54678a4ec33e708e0f")
